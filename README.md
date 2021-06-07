@@ -31,7 +31,7 @@ class Human:
 Angel = Person(
 "Angel",
 24,
-"ag_gr@outlook.com"
+"ag_gr@outlook.com")
 
 print(Angel.name)
 print(Angel.age)
