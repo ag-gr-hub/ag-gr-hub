@@ -9,16 +9,15 @@ As a developer, I enjoy problem solving, creative thinking and finding solutions
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
-## Current events:
- - #### Currently attending last trimester at Holberton School
- - #### Currently developing web app to help users find jobs easier, faster and fairly.
- - #### Researching different jobs and fields for app development and implementation.
-
-
 ---
 ## My GitHub Stats:
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel19951&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel19951&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Current events:
+ - #### Currently attending last trimester at Holberton School
+ - #### Currently developing web app to help users find jobs easier, faster and fairly.
+ - #### Researching different jobs and fields for app development and implementation.
 
 
 ```python
