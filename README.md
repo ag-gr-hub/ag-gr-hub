@@ -5,7 +5,7 @@
 ### Glad to have you here! ![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
 I'm a full-stack developer that loves to figure out how and why things work. I love programming, traveling and playing the drums. 
 
-As a developer, I enjoy problem solving, creative thinking and finding solutions by learning new methods that might be foreign to my knowledge. As well as investing in technological solutions that might the world a better place
+As a developer, I enjoy problem solving, creative thinking and finding solutions by learning new methods that might be foreign to my knowledge. As well as investing in technological solutions that might make the world a better place
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
