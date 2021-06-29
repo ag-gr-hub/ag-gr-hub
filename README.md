@@ -1,5 +1,5 @@
 # Hello there! I'm Angel 
-## Resume [Download](https://drive.google.com/file/d/1u6Ccvzt29hM4Fbh6sps9sCraE1oFrkJs/view?usp=sharing) 
+[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/drive/u/0/folders/1QgjDmvpFY1lD9oOr_cv4qDNOj_hvNX3q)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/) ![Twitter Follow](https://img.shields.io/twitter/follow/ag_gr_?style=social)
 
 ### Glad to have you here! ![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
