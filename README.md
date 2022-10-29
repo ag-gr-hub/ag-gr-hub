@@ -1,11 +1,17 @@
 # Hello there! I'm Angel 
-[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/1nP7r4qJhSA3yK_7YFBqSFskXQxUcTHWC/view?usp=sharing)
+[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/1wSgCo2lHlntcj2So7Ogbd3SLzKokF_xu/view?usp=share_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/) ![Twitter Follow](https://img.shields.io/twitter/follow/ag_gr_?style=social)
 
 ### Glad to have you here! ![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
-I'm a full-stack developer that loves to figure out how and why things work. I love programming, traveling and playing the drums. 
+I'm a recent Cum Laude graduate of Colegio Universitario of San Juan for a Bachelor's Degree in Information Systems. 
 
-As a developer, I enjoy problem solving, critical thinking and finding solutions by learning new methods that might be new to my knowledge. As well as investing in technological solutions that might make the world a better place
+Currently working at Qualus Power Services as a Application Developer, where I plan to expand my knowledge and help create great services to facilitate tasks for company users.
+
+My prior work experience was at Consilience Analytics, where I gained valuable experience as a software developer.
+
+I'm a hardworking and dedicated software developer, experienced with databases, different OOP languages, and tight deadlines. Ready to learn and put it to work. I'm always looking to explore, research and invest in new technologies that can make the world a better place.
+
+My main goal at the moment is to continue the development of my skill on the full-stack environment while simultaneously being of service.
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
