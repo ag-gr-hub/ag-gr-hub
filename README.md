@@ -1,17 +1,14 @@
 # Hello there! I'm Angel 
-[![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/1wSgCo2lHlntcj2So7Ogbd3SLzKokF_xu/view?usp=share_link)
+[coment]: <> [![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/1wSgCo2lHlntcj2So7Ogbd3SLzKokF_xu/view?usp=share_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/) ![Twitter Follow](https://img.shields.io/twitter/follow/ag_gr_?style=social)
 
 ### Glad to have you here! ![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
-I'm a recent Cum Laude graduate of Colegio Universitario of San Juan for a Bachelor's Degree in Information Systems. 
+As an Application Developer at Qualus, I deliver efficient and user-friendly software solutions. Responsibilities include front-end development using Angular, adhering to high code standards and conducting rigorous testing. I also handle back-end development with C# for seamless application functionality. Data management and manipulation ensure smooth operations and accurate reporting. Collaboration with the lead Solutions Architect contributes to effective project planning and execution.
 
-Currently working at Qualus Power Services as a Application Developer, where I plan to expand my knowledge and help create great services to facilitate tasks for company users.
+Past experience:
+As a Software Developer at Consilience Analytics, I maintained and manipulated data with meticulous attention to detail. I developed scripts and C# code to meet high standards. Serving data to meet company requirements and assisting high-level executives was a key contribution. I managed and maintained AWS Virtual Machines and Data Buckets for efficient processes.
 
-My prior work experience was at Consilience Analytics, where I gained valuable experience as a software developer.
-
-I'm a hardworking and dedicated software developer, experienced with databases, different OOP languages, and tight deadlines. Ready to learn and put it to work. I'm always looking to explore, research and invest in new technologies that can make the world a better place.
-
-My main goal at the moment is to continue the development of my skill on the full-stack environment while simultaneously being of service.
+As an Activities Lead at Holberton School Puerto Rico, I guided students in web development, incorporating their interests and providing real-world examples. As a Freelance Web Developer, I consulted with clients on application architecture, created visual documentation, and developed customized solutions. Effective client engagement and requirement gathering ensured successful outcomes.
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
