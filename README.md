@@ -17,7 +17,9 @@ As an Activities Lead at Holberton School Puerto Rico, I guided students in web 
 ---
 ## My GitHub Stats:
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel19951&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel19951&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel19951&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel19951&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Current events:
