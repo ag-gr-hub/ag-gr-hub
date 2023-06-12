@@ -7,6 +7,7 @@
 As an Application Developer at Qualus, I deliver efficient and user-friendly software solutions. Responsibilities include front-end development using Angular, adhering to high code standards and conducting rigorous testing. I also handle back-end development with C# for seamless application functionality. Data management and manipulation ensure smooth operations and accurate reporting. Collaboration with the lead Solutions Architect contributes to effective project planning and execution.
 
 Past experience:
+
 As a Software Developer at Consilience Analytics, I maintained and manipulated data with meticulous attention to detail. I developed scripts and C# code to meet high standards. Serving data to meet company requirements and assisting high-level executives was a key contribution. I managed and maintained AWS Virtual Machines and Data Buckets for efficient processes.
 
 As an Activities Lead at Holberton School Puerto Rico, I guided students in web development, incorporating their interests and providing real-world examples. As a Freelance Web Developer, I consulted with clients on application architecture, created visual documentation, and developed customized solutions. Effective client engagement and requirement gathering ensured successful outcomes.
