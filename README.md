@@ -3,6 +3,7 @@
 
 ### Glad to have you here! 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 As an Application Developer at Qualus, I deliver efficient and user-friendly software solutions. Responsibilities include front-end development using Angular, adhering to high code standards and conducting rigorous testing. I also handle back-end development with C# for seamless application functionality. Data management and manipulation ensure smooth operations and accurate reporting. Collaboration with the lead Solutions Architect contributes to effective project planning and execution.
 
 Past experience:
