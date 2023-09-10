@@ -1,36 +1,99 @@
-# Hello there! I'm Angel 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/) ![Twitter Follow](https://img.shields.io/twitter/follow/ag_gr_?style=social)
 
-### Glad to have you here! 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Hi there! 👋
 
-As an Application Developer at Qualus, I deliver efficient and user-friendly software solutions. Responsibilities include front-end development using Angular, adhering to high code standards and conducting rigorous testing. I also handle back-end development with C# for seamless application functionality. Data management and manipulation ensure smooth operations and accurate reporting. Collaboration with the lead Solutions Architect contributes to effective project planning and execution.
+I'm a cum laude graduate from Colegio Universitario of San Juan, holding a Bachelor's Degree in Information Systems with a Minor in Business Administration.
 
-Past experience:
+🚀 Currently, I'm employed at Qualus Power Services as an Application Developer, where I'm passionate about expanding my knowledge and contributing to the creation of outstanding services that enhance efficiency for our users.
 
-As a Software Developer at Consilience Analytics, I maintained and manipulated data with meticulous attention to detail. I developed scripts and C# code to meet high standards. Serving data to meet company requirements and assisting high-level executives was a key contribution. I managed and maintained AWS Virtual Machines and Data Buckets for efficient processes.
+👨‍💻 Previously, I honed my skills at Consilience Analytics, gaining valuable experience as a software developer.
 
-As an Activities Lead at Holberton School Puerto Rico, I guided students in web development, incorporating their interests and providing real-world examples. As a Freelance Web Developer, I consulted with clients on application architecture, created visual documentation, and developed customized solutions. Effective client engagement and requirement gathering ensured successful outcomes.
+---
+
+## What I Bring to the Table
+
+As a diligent and dedicated software developer, I bring expertise in:
+
+- Working with databases and crafting efficient data solutions.
+- Proficiency in various object-oriented programming languages.
+- A track record of delivering projects within tight deadlines.
+- An insatiable thirst for learning and applying knowledge effectively.
+- A deep curiosity and eagerness to explore new technologies that can have a positive impact on the world.
+
+🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
+
+### My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,vim,)](https://skills.thijs.gg)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+---
+
+## Current Experience
+
+### Fullstack Developer at Qualus Power Services Corp.
+- Front-end Development: Crafting responsive, clean, and tested Angular-based UIs for mobile and desktop users.
+- Back-end Development: Leveraging C# for robust and reliable application functionality.
+- Data Management: Ensuring data integrity, availability, and security for seamless operations and accurate reporting.
+- Collaboration and Planning: Active participation in project initiatives and efficient goal achievement.
+
+---
+## Past Experience
+
+### Software Developer at Consilience Analytics
+
+- Managed and manipulated data with meticulous attention to detail.
+- Developed scripts and wrote C# code to meet high standards.
+- Played a pivotal role in serving data to meet company requirements and assisting high-level executives.
+- Oversaw and maintained AWS Virtual Machines and Data Buckets for streamlined processes.
+
+### Activities Lead at Holberton School Puerto Rico
+
+- Guided students in web development, incorporating their interests and providing real-world examples.
+
+### Freelance Web Developer
+
+- Consulted with clients on application architecture.
+- Created visual documentation and developed customized solutions.
+- Ensured successful outcomes through effective client engagement and requirement gathering.
+
+Feel free to connect with me, and let's explore the world of technology together! 🌐
+
+---
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/)
+
+
+
+---
+
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-
----
-## My GitHub Stats:
-
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel19951&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel19951&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-## Current events:
- - #### Exploring new career opportunities in the Software Development field
- - #### Recently graduated College with a Bachelor's Degree in Information Systems
- - #### Currently developing web app to help users find jobs easier, faster and fairly
- - #### Researching different jobs and fields for app development and implementation
- - #### Expanding my knowledge and trying to make the world a better place at the same time
----
-
-
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
