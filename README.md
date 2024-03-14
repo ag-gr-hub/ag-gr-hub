@@ -4,6 +4,7 @@
 I'm a cum laude graduate from Colegio Universitario of San Juan, holding a Bachelor's Degree in Information Systems with a Minor in Business Administration.
 
 🚀 Currently, I'm employed at Qualus Power Services as an Application Developer, where I'm passionate about expanding my knowledge and contributing to the creation of outstanding services that enhance efficiency for our users.
+
 🚀 I am also employed at F.I.R.S.T. Institute, as a Substitute Instructure, where I guide students in comprehending fundamentals and advanced web page development techniquest usin HTML and CSS, aiding them in their portfolio expansion.
 
 👨‍💻 Previously, I honed my skills at Consilience Analytics, gaining valuable experience as a software developer.
