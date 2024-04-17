@@ -63,6 +63,10 @@ As a diligent and dedicated software developer, I bring expertise in:
 - Data Management: Ensuring data integrity, availability, and security for seamless operations and accurate reporting.
 - Collaboration and Planning: Active participation in project initiatives and efficient goal achievement.
 
+### Substitute Instructor at F.I.R.S.T. Institute
+- Front-end Development Teachings: Helping students understand, implement, and deploy HTML, CSS, JS webpages.
+- Assitance: Helping students understand concepts when these are preventing progress in their development.
+
 ---
 ## Past Experience
 
