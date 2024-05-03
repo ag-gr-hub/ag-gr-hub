@@ -1,5 +1,5 @@
 
-# Hi there! 👋 ![](https://komarev.com/ghpvc/?username=angel19951&label=Visitor+#+:&abbreviated=true&color=ff69b4)
+# Hi there! 👋 ![](https://komarev.com/ghpvc/?username=angel19951&label=Visitor+:&abbreviated=true&color=ff69b4)
 
 I'm a cum laude graduate from Colegio Universitario of San Juan, holding a Bachelor's Degree in Information Systems with a Minor in Business Administration.
 
