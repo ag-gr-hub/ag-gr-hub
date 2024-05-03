@@ -26,6 +26,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 ### My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,vim,)](https://skills.thijs.gg)
 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
