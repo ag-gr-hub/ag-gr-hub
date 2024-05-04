@@ -1,6 +1,4 @@
-document.getElementById("instagram").addEventListener("click", function(event) {
-    event.preventDefault();
-
-    var url = this.getAttribute("href");
+function openLink() {
+    var url = "https://www.instagram.com/kelso_pr/";
     window.open(url, "_blank");
-});
+}
