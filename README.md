@@ -24,7 +24,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,boostrap,cpp,html,css,nodejs,py,mysql,md,powershell,bash,fastapi,flask,nginx&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,nodejs,py,mysql,md,powershell,bash,fastapi,flask,nginx&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
