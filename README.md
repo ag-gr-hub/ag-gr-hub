@@ -24,7 +24,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,powershell,bash&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,powershell,bash,fastapi,flask&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -32,8 +32,6 @@ As a diligent and dedicated software developer, I bring expertise in:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
