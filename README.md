@@ -53,7 +53,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=rider,pycharm,webstorm,phpstorm,vscode,visualstudio,linux,ubuntu,postman&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,linux,ubuntu,postman&perline=12)](https://skillicons.dev)
 
 ---
 
