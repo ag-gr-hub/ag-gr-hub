@@ -57,6 +57,10 @@ As a diligent and dedicated software developer, I bring expertise in:
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vs,&perline=12)](https://skillicons.dev)
+
 ---
 
 ## Current Experience
