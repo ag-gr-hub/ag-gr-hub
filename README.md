@@ -59,7 +59,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=rider,pycharm,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,pycharm,webstorm,phpstorm&perline=12)](https://skillicons.dev)
 
 ---
 
