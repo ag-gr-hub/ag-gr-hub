@@ -24,7 +24,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,vim,powershell,bash&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,powershell,bash&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,9 +35,6 @@ As a diligent and dedicated software developer, I bring expertise in:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -50,7 +47,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,linux,ubuntu,postman,aws&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure&perline=12)](https://skillicons.dev)
 
 ---
 
