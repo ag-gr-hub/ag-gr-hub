@@ -24,21 +24,14 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,jinja,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,apache&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure,npm,neovim,windows,wordpress&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure,npm,neovim,windows,vagrant,wordpress&perline=12)](https://skillicons.dev)
 
 ---
 
