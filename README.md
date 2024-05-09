@@ -24,7 +24,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,vim,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,ts,js,cs,cpp,html,css,nodejs,py,mysql,md,vim,sqlite)](https://skills.thijs.gg)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
