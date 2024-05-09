@@ -38,7 +38,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure,npm,neovin&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure,npm,neovim,windows,wordpress&perline=12)](https://skillicons.dev)
 
 ---
 
