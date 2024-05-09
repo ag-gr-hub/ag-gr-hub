@@ -42,8 +42,6 @@ As a diligent and dedicated software developer, I bring expertise in:
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -56,7 +54,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=rider,pycharm,webstorm,phpstorm,vscode,visualstudio&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,pycharm,webstorm,phpstorm,vscode,visualstudio,linux,ubuntu&perline=12)](https://skillicons.dev)
 
 ---
 
