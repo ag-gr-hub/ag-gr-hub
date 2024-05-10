@@ -24,7 +24,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,jinja,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,apache,jest&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,jinja,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,jest,redis,regex&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -32,7 +32,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,postman,aws,azure,npm,neovim,windows,vagrant,wordpress&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,kali,kotlin,postman,aws,azure,npm,neovim,windows,apple,wordpress&perline=12)](https://skillicons.dev)
 
 ---
 
