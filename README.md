@@ -16,7 +16,7 @@ I'm a cum laude graduate from Colegio Universitario of San Juan, holding a Bache
 As a diligent and dedicated software developer, I bring expertise in:
 
 - Working with databases and crafting efficient data solutions.
-- Principles of mobile and desktop design.
+- Principles in mobile and desktop design.
 - Proficiency in various object-oriented programming languages.
 - Proficienct in various srcriptiong programming languages.
 - A track record of delivering projects within tight deadlines.
