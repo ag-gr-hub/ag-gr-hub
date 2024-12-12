@@ -18,7 +18,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 - Working with databases and crafting efficient data solutions.
 - Principles in mobile and desktop design.
 - Proficiency in various object-oriented programming languages.
-- Proficienct in various srcriptiong programming languages.
+- Proficienct in various srcripting programming languages.
 - A track record of delivering projects within tight deadlines.
 - An insatiable thirst for learning and applying knowledge effectively.
 - A deep curiosity and eagerness to explore new technologies that can have a positive impact on the world.
