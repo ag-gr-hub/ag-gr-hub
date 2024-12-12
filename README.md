@@ -1,6 +1,8 @@
 
 # Hello there! 👋 ![](https://komarev.com/ghpvc/?username=angel19951&label=Visitor:&abbreviated=true&color=ff69b4)
 
+<img src="https://c.tenor.com/tWYs75jv8QwAAAAM/hello-there-obi-wan-kenobi.gif" width="75" height="75" />
+
 I'm a cum laude graduate from Colegio Universitario of San Juan, holding a Bachelor's Degree in Information Systems with a Minor in Business Administration.
 
 🚀 Currently, I'm employed at Qualus Power Services as an Application Developer, where I'm passionate about expanding my knowledge and contributing to the creation of outstanding services that enhance efficiency for our users.
