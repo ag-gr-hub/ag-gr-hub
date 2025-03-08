@@ -11,7 +11,7 @@ body {
   grid-template-areas:
     ". content-column .";
   background-color: #393D3F;
-  margin: 10%;
+  margin: 5%;
   padding: 5%;
 }
 
