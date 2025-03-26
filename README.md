@@ -28,6 +28,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
 ### My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,jest,redis,regex&perline=12)](https://skillicons.dev)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -53,6 +54,7 @@ As a diligent and dedicated software developer, I bring expertise in:
 - Assitance: Helping students understand concepts when these are preventing progress in their development.
 
 ---
+
 ## Past Experience
 
 ### Software Developer at Consilience Analytics
@@ -81,16 +83,14 @@ Feel free to connect with me, and let's explore the world of technology together
 - Clock-In is a job search platform designed to quickly, easily, and reliably connect contractors with gig work.
 - Kick My Grass, landscaping company that allows users to easily request an appointment for lawn care treatments. ([Kick My Grass](kick-my-grass.com))
 
+---
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ag_gr@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agonzalezrosado123@gmail.com)
 
-
-
-
 ---
-
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
