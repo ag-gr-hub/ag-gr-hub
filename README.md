@@ -76,6 +76,11 @@ Feel free to connect with me, and let's explore the world of technology together
 
 ---
 
+## Projects
+
+- Clock-In is a job search platform designed to quickly, easily, and reliably connect contractors with gig work.
+- Kick My Grass, landscaping company that allows users to easily request an appointment for lawn care treatments. ([Kick My Grass](kick-my-grass.com))
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ag_gr@outlook.com)
