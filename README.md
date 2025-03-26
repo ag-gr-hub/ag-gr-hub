@@ -27,20 +27,6 @@ As a diligent and dedicated software developer, I bring expertise in:
 
 🌟 My current primary goal is to continue developing my skills in a full-stack environment while actively using my expertise to help others.
 
-### My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,jest,redis,regex&perline=12)](https://skillicons.dev)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
----
-
-### Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,kali,kotlin,postman,aws,azure,npm,neovim,windows,apple,wordpress,stackoverflow&perline=12)](https://skillicons.dev)
-
----
-
 ## Current Experience
 
 ### Fullstack Developer at Qualus Power Services Corp.
@@ -75,6 +61,20 @@ As a diligent and dedicated software developer, I bring expertise in:
 - Ensured successful outcomes through effective client engagement and requirement gathering.
 
 Feel free to connect with me, and let's explore the world of technology together! 🌐
+
+---
+
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,cs,bootstrap,cpp,html,css,webpack,nodejs,py,sqlite,mysql,postgres,md,powershell,bash,fastapi,flask,nginx,dotnet,jest,redis,regex&perline=12)](https://skillicons.dev)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+---
+
+### Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,rider,pycharm,webstorm,phpstorm,vscode,visualstudio,vim,emacs,linux,ubuntu,kali,kotlin,postman,aws,azure,npm,neovim,windows,apple,wordpress,stackoverflow&perline=12)](https://skillicons.dev)
 
 ---
 
