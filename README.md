@@ -85,6 +85,12 @@ Feel free to connect with me, and let's explore the world of technology together
 
 ---
 
+## My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ag-gr-hub&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-gonz%C3%A1lez-834b30180/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ag_gr@outlook.com)
