@@ -16,8 +16,12 @@ Full-stack work on internal tooling for power-grid design and planning.
 - **Front-end:** Angular + TypeScript SPAs and a Microsoft Teams tab app to surface internal tools.
 - **Data:** advanced T-SQL, stored procedures, schema design, and Power BI / Tableau dashboards.
 
-### Substitute Instructor · [F.I.R.S.T. Institute](https://www.first.edu/) — *Feb 2024 – Present*
-Teaching HTML, CSS, and JavaScript to groups of 10–25 students. Debugging alongside them, grading work, and contributing to curriculum reviews.
+---
+
+## 🎓 Previously
+
+### Substitute Instructor · [F.I.R.S.T. Institute](https://www.first.edu/) — *Feb 2024 – May 2025*
+Taught HTML, CSS, and JavaScript to groups of 10–25 students. Debugged alongside them, graded work, and contributed to curriculum reviews.
 
 ---
 
