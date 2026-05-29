@@ -23,7 +23,7 @@ Teaching HTML, CSS, and JavaScript to groups of 10–25 students. Debugging alon
 
 ## 🚀 Selected projects
 
-### [Clock-In](https://clock-in.app) — *2024 – Present*
+### Clock-In — *2024 – Present*
 Puerto Rico's professional gig network. Full-stack rewrite of an earlier prototype.
 - **Back-end:** FastAPI · async SQLAlchemy · PostgreSQL · Alembic · Redis. JWT auth with TOTP 2FA, refresh-token rotation, password lockout, and a separate admin login flow.
 - **Integrations:** Stripe Identity, Persona background checks, Resend transactional email — each with async health probes surfaced through an admin services-health endpoint.
