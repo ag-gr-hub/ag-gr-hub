@@ -329,14 +329,12 @@ html, body {
 .stats-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  justify-content: center;
-  margin-bottom: 16px;
+  gap: 10px;
+  align-items: center;
+  margin: 0;
 }
-.stats-row img {
-  max-width: 100%;
-  height: auto;
-}
+.stats-row a { display: inline-flex; }
+.stats-row img { height: 28px; width: auto; }
 
 /* Joke */
 .joke img {
