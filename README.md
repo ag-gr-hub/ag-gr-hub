@@ -77,3 +77,9 @@ Built a Bash + Python worker/queue pipeline (Redis-backed) that performed CRUD a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ag-gr-hub)
 
 🗣️ Spanish (native) · English (fluent) — 🏎️ off the clock: F1/F2/F3/E, IndyCar, MotoGP, rock climbing, drums, and old movies.
+
+---
+
+### 😂 Joke of the visit
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
