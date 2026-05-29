@@ -325,6 +325,19 @@ html, body {
   height: auto;
 }
 
+/* Stats */
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+.stats-row img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Joke */
 .joke img {
   display: block;

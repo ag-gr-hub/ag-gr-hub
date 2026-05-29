@@ -66,7 +66,12 @@ Built a Bash + Python worker/queue pipeline (Redis-backed) that performed CRUD a
 
 ## 📊 Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ag-gr-hub&theme=tokyonight&hide_border=true&layout=compact)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ag-gr-hub&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ag-gr-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ag-gr-hub&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
