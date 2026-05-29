@@ -33,14 +33,6 @@ Taught HTML, CSS, and JavaScript to groups of 10–25 students. Debugged alongsi
 
 ## 🚀 Selected projects
 
-### Clock-In — *2024 – Present*
-Puerto Rico's professional gig network. Full-stack rewrite of an earlier prototype.
-- **Back-end:** FastAPI · async SQLAlchemy · PostgreSQL · Alembic · Redis. JWT auth with TOTP 2FA, refresh-token rotation, password lockout, and a separate admin login flow.
-- **Integrations:** Stripe Identity, Persona background checks, Resend transactional email — each with async health probes surfaced through an admin services-health endpoint.
-- **Hardening:** strict CSP / COOP / HSTS, per-route security headers, slowapi rate limiting (Redis backend, in-memory fallback), structured logging with request-ID tracing.
-- **Front-end:** React 19 · Vite 8 · TypeScript · React Router 7 · PrimeReact · MUI · Zustand · react-hook-form · Sentry · Stripe.js.
-- **Product:** i18next EN/ES localization, dark mode, GDPR data export/delete, cookie consent, and a full admin portal (users, gigs, reviews, verifications, audit log, observability).
-
 ### Flowchart & Sequence Designer — *2025 – Present*
 A TypeScript library + visual editor for flowchart and sequence diagrams.
 - Fluent builder API with configurable nodes (rectangle, diamond, circle, parallelogram) and edge styles.

@@ -87,24 +87,6 @@
     <section class="section">
       <h2>Selected projects</h2>
       <div class="cards">
-        <article class="card card-feature">
-          <header class="card-head">
-            <h3>Clock-In</h3>
-            <p class="org">Puerto Rico's professional gig network · 2024 – Present</p>
-          </header>
-          <p>Full-stack rewrite of an earlier prototype into a production-grade platform.</p>
-          <ul>
-            <li><strong>Back-end:</strong> FastAPI · async SQLAlchemy · PostgreSQL · Alembic · Redis. JWT auth with TOTP 2FA, refresh-token rotation, password lockout, separate admin login flow.</li>
-            <li><strong>Integrations:</strong> Stripe Identity, Persona background checks, Resend email — each with async health probes surfaced through an admin services-health endpoint.</li>
-            <li><strong>Hardening:</strong> strict CSP / COOP / HSTS, per-route security headers, slowapi rate limiting (Redis backend, in-memory fallback), structured logging with request-ID tracing.</li>
-            <li><strong>Front-end:</strong> React 19 · Vite 8 · TypeScript · React Router 7 · PrimeReact · MUI · Zustand · react-hook-form · Sentry · Stripe.js.</li>
-            <li><strong>Product:</strong> i18next EN/ES localization, dark mode, GDPR data export/delete, cookie consent, full admin portal (users, gigs, reviews, verifications, audit log, observability).</li>
-          </ul>
-          <div class="tag-row">
-            <span class="tag">FastAPI</span><span class="tag">PostgreSQL</span><span class="tag">React 19</span><span class="tag">TypeScript</span><span class="tag">Stripe</span><span class="tag">Redis</span>
-          </div>
-        </article>
-
         <article class="card">
           <header class="card-head">
             <h3>Flowchart &amp; Sequence Designer</h3>
