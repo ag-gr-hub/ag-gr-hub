@@ -23,6 +23,12 @@ Full-stack work on internal tooling for power-grid design and planning.
 ### Substitute Instructor · [F.I.R.S.T. Institute](https://www.first.edu/) — *Feb 2024 – May 2025*
 Taught HTML, CSS, and JavaScript to groups of 10–25 students. Debugged alongside them, graded work, and contributed to curriculum reviews.
 
+### Software Developer · Consilience Analytics — *Jul 2021 – Jul 2022*
+3D-data company in San Juan, PR — transforming physical assets into actionable data.
+- **Back-end:** C# methods following the repository pattern across Microsoft SQL Server, SQLite, and MySQL; authored advanced SQL and stored procedures for reporting.
+- **Data pipeline:** built a multi-step Bash + Python worker/queue (Redis-backed) that ran CRUD against SQL Server to analyze and dedupe **~3 PB** of data across multiple AWS S3 buckets.
+- **Cloud / infra:** managed AWS IAM, S3, and EC2, plus the networks of local and cloud machines used for data processing.
+
 ---
 
 ## 🚀 Selected projects
@@ -44,9 +50,6 @@ A TypeScript library + visual editor for flowchart and sequence diagrams.
 
 ### LessonPlan-NG — *2025*
 Angular 19 + TypeScript SPA for drafting and organizing lesson plans. Built to make my own teaching prep faster.
-
-### Past work · Consilience Analytics — *2021 – 2022*
-Built a Bash + Python worker/queue pipeline (Redis-backed) that performed CRUD against SQL Server to dedupe **~3 PB** of data across multiple AWS S3 buckets. Managed AWS IAM, S3, and EC2 along the way.
 
 ---
 
