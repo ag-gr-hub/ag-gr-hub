@@ -64,19 +64,12 @@ Built a Bash + Python worker/queue pipeline (Redis-backed) that performed CRUD a
 
 ---
 
-## 📊 Stats
-
-[![Followers](https://img.shields.io/github/followers/ag-gr-hub?style=for-the-badge&logo=github&color=7c9cff&labelColor=12151c)](https://github.com/ag-gr-hub)
-[![Stars](https://img.shields.io/github/stars/ag-gr-hub?style=for-the-badge&logo=github&color=b388ff&labelColor=12151c)](https://github.com/ag-gr-hub)
-[![Profile](https://img.shields.io/badge/Profile-@ag--gr--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ag-gr-hub)
-
----
-
 ## 🌐 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelgonzalez-rosado/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ag_gr@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ag-gr-hub)
+[![Followers](https://img.shields.io/github/followers/ag-gr-hub?style=for-the-badge&logo=github&label=Followers&color=7c9cff&labelColor=12151c)](https://github.com/ag-gr-hub)
 
 🗣️ Spanish (native) · English (fluent) — 🏎️ off the clock: F1/F2/F3/E, IndyCar, MotoGP, rock climbing, drums, and old movies.
 
