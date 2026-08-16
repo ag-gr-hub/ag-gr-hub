@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm **Angel G. Gonzalez Rosado** — a full-stack developer based in Florida, originally from Puerto Rico. B.S. Information Systems (cum laude) from Colegio Universitario de San Juan; Holberton School Puerto Rico alum.
+I'm **Angel G. Gonzalez Rosado** — a full-stack developer based in Puerto Rico. B.S. Information Systems (cum laude) from Colegio Universitario de San Juan; Holberton School Puerto Rico alum.
 
 I ship production APIs, polished front-ends, and everything that holds them together — data pipelines, auth, observability, CI.
 
